@@ -7,7 +7,7 @@ The repo includes:
 * `config.json` — **Main/default configuration used when running the script**
 * `config_urdf.json` — Reference config specifically for URDF output
 * `config_mujoco.json` — Reference config specifically for MuJoCo output
-* `keys.json` — API keys needed to access the Onshape API *(included intentionally for testing; **not sensitive**)*
+* `keys1.json` — API keys needed to access the Onshape API *(included intentionally for testing; **not sensitive**)*
 
 ---
 
@@ -54,7 +54,7 @@ Not used automatically — only for reference.
 Alternate configuration optimized for MuJoCo output.
 Not used automatically — only for reference.
 
-### `keys.json`
+### `keys1.json`
 
 Contains API keys for Onshape access — included intentionally for quick testing.
 
